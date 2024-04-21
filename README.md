@@ -33,4 +33,4 @@ This account has been created to offer support and share knowledge with those wh
 </p>
 
 ## MOST USED LANGUAGES
-![YuZhe-CN' GitHub stats](https://github-readme-stats.vercel.app/api?username=Briareeos&show_icons=true&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briareeos&layout=compact&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1)
+![YuZhe-CN' GitHub stats](https://github-readme-stats.vercel.app/api?username=YuZhe-CN&show_icons=true&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhe-CN&layout=compact&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1)
