@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhilin-li-556b6b197/)
 
-I'm a Computer Engineering and Business graduate passionate about understanding how systems work under the hood.  
+I'm a Computer Engineering passionate about understanding how systems work under the hood.  
 I’m especially interested in **low-level programming**, **operating systems**, and **computer architecture**.  
 I enjoy building efficient, robust, and hardware-aware software — always seeking to deepen my technical knowledge and contribute to meaningful engineering challenges.
 
