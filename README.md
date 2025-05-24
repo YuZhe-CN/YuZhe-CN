@@ -16,6 +16,7 @@ This space is where I share personal projects, experiments, and tools as I grow 
 
 - Operating Systems & Performance
 - Computer Architecture
+- Data structures and algorithms
 
 ---
 
