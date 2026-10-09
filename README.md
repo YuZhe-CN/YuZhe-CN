@@ -29,9 +29,7 @@ This is where I share personal projects, experiments, and tools as I keep growin
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YuZhe-CN/mmu_testbench"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuZhe-CN&repo=mmu_testbench&theme=tokyonight&hide_border=true" alt="mmu_testbench" /></a>
   <a href="https://github.com/YuZhe-CN/riscie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuZhe-CN&repo=riscie&theme=tokyonight&hide_border=true" alt="riscie" /></a>
-  <a href="https://github.com/YuZhe-CN/TailbenchModif"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuZhe-CN&repo=TailbenchModif&theme=tokyonight&hide_border=true" alt="TailbenchModif" /></a>
   <a href="https://github.com/oroneta/drone-module"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oroneta&repo=drone-module&theme=tokyonight&hide_border=true" alt="Oroneta drone-module" /></a>
 </p>
 
