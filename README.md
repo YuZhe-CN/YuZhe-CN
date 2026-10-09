@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Zhilin Li 👋</h1>
 
 <p align="center">
-  <b>Computer Engineer · Systems & Computer Architecture</b><br/>
-  📍 Valencia, Spain · 🎓 Universitat Politècnica de València
+  <b>MSc student in High Performance Computing · Systems & Computer Architecture</b><br/>
+  📍 Barcelona, Spain · 🎓 MIRI-HPC @ Universitat Politècnica de Catalunya (UPC)
 </p>
 
 <p align="center">
@@ -14,14 +14,17 @@
 
 ## 🙋 About Me
 
-I'm a computer engineer who likes to understand how systems work under the hood.
-I'm especially interested in **low-level programming**, **operating systems**, and **computer architecture**,
+I'm a computer engineer (BSc, Universitat Politècnica de València) currently studying the
+**Master in Innovation and Research in Informatics (MIRI)**, specializing in **High Performance Computing**, at UPC.
+I like to understand how systems work under the hood, and I'm especially interested in
+**low-level programming**, **parallel computing**, **operating systems**, and **computer architecture**,
 and I enjoy building efficient, robust, hardware-aware software.
 
 This is where I share personal projects, experiments, and tools as I keep growing as an engineer.
 
 ## 🧠 Core Interests
 
+- ⚡ **High Performance Computing**: parallel programming, performance analysis, and getting the most out of the hardware
 - 🖥️ **Operating Systems & Performance**: how the kernel, scheduler, and memory hierarchy shape real workloads
 - 🔩 **Computer Architecture**: memory management units, RISC-V, and hardware verification
 - 🧮 **Data Structures & Algorithms**: competitive programming and problem solving
@@ -48,6 +51,12 @@ This is where I share personal projects, experiments, and tools as I keep growin
 </p>
 
 Also: **SystemVerilog** for hardware design and verification.
+
+🌱 **Currently learning (HPC):**
+<img src="https://img.shields.io/badge/MPI-1F6FEB?style=flat-square" alt="MPI" />
+<img src="https://img.shields.io/badge/OpenMP-0E7C86?style=flat-square" alt="OpenMP" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/Slurm-6E40C9?style=flat-square" alt="Slurm" />
 
 ## 📊 GitHub Stats
 
