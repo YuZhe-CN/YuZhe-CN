@@ -31,10 +31,15 @@ This is where I share personal projects, experiments, and tools as I keep growin
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/YuZhe-CN/riscie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuZhe-CN&repo=riscie&theme=tokyonight&hide_border=true" alt="riscie" /></a>
-  <a href="https://github.com/oroneta/drone-module"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oroneta&repo=drone-module&theme=tokyonight&hide_border=true" alt="Oroneta drone-module" /></a>
-</p>
+### 🔧 [riscie](https://github.com/YuZhe-CN/riscie)
+A pipelined **RISC-V CPU** written in **SystemVerilog**: a 5-stage datapath with caches, a reorder buffer,
+a store buffer and a pipelined integer multiplier. It's simulated with Verilator and tested with bare-metal C
+programs (Fibonacci, BST, matrix multiply).
+
+### 🚁 [Oroneta · drone-module](https://github.com/oroneta/drone-module)
+The drone module of **Oroneta**, a system for managing autonomous drones for monitoring, surveillance and
+emergency response. Written in **C++**, it provides the drone's API, a manager that handles its movements and tasks,
+and an AI component that processes the collected data.
 
 ## ⚙️ Languages & Tools
 
@@ -57,13 +62,6 @@ Also: **SystemVerilog** for hardware design and verification.
 <img src="https://img.shields.io/badge/OpenMP-0E7C86?style=flat-square" alt="OpenMP" />
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
 <img src="https://img.shields.io/badge/Slurm-6E40C9?style=flat-square" alt="Slurm" />
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YuZhe-CN&show_icons=true&theme=tokyonight&hide_border=true&title_color=30DED5&icon_color=30DED5&text_color=A1A1A1" alt="Zhilin's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhe-CN&layout=compact&theme=tokyonight&hide_border=true&title_color=30DED5&text_color=A1A1A1" alt="Top languages" />
-</p>
 
 ---
 
